@@ -1,0 +1,58 @@
+_repo: Kak-the-Copper-Eskimo_67630
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Richards, George M. (George Mather)
+    alias: Richards, G. M. (George Mather)
+    birthdate: 1880
+    deathdate: 1958
+    gutenberg_agent_id: '54377'
+    url: http://www.gutenberg.org/2009/agents/54377
+    wikipedia: https://en.wikipedia.org/wiki/George_Mather_Richards
+creator:
+  authors:
+  - agent_name: Stefansson, Vilhjalmur
+    aliases:
+    - Stephenson, Vilhjalmur
+    - Stephenson, Villi
+    - Stef
+    - Vilhjálmur Stefánsson
+    - Stephenson, William
+    - Stefansson, Villi
+    birthdate: 1879
+    deathdate: 1962
+    gutenberg_agent_id: '54365'
+    url: http://www.gutenberg.org/2009/agents/54365
+    wikipedia: https://en.wikipedia.org/wiki/Vilhjalmur_Stefansson
+  - agent_name: Irwin, Violet
+    aliases:
+    - Irvin, Violeta
+    - Irwin, V. M. (Violet Mary)
+    birthdate: 1881
+    gutenberg_agent_id: '54366'
+    url: http://www.gutenberg.org/2009/agents/54366
+description: ''
+gutenberg_issued: '2022-03-15'
+identifiers:
+  gutenberg: '67630'
+  lccn: '24020561'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uc1.408724
+pgterms:marc905: 20201211043513stefansson
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Tim Lindell, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: United States :The Macmillan Company,1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Victoria Island (Nunavut and N.W.T.) -- Juvenile fiction'
+- !lcsh 'Arctic regions -- Juvenile fiction'
+- !lcsh 'Copper Inuit boys -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Kak, the Copper Eskimo
+url: http://www.gutenberg.org/ebooks/67630
