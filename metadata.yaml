@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '54377'
     url: http://www.gutenberg.org/2009/agents/54377
     wikipedia: https://en.wikipedia.org/wiki/George_Mather_Richards
+covers:
+- cover_type: archival
+  image_path: 67630-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Stefansson, Vilhjalmur
@@ -32,6 +35,8 @@ creator:
     gutenberg_agent_id: '54366'
     url: http://www.gutenberg.org/2009/agents/54366
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67630#Kak-the-Copper-Eskimo
 gutenberg_issued: '2022-03-15'
 identifiers:
   gutenberg: '67630'
